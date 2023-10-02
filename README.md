@@ -1,7 +1,7 @@
 # noteapp
 
 ## About The Project
-A new Flutter project.
+Application to save notes, this application is developed using local database(sqflite).
 
 # Screenshots
 
